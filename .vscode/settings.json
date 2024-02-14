@@ -1,0 +1,12 @@
+{
+    "editor.fontSize": 14,
+    "editor.fontVariations": false,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorSmoothCaretAnimation": "on",
+    "editor.cursorStyle": "block-outline",
+    "editor.cursorSurroundingLines": 0,
+    "diffEditor.wordWrap": "on",
+    "workbench.list.defaultFindMatchType": "contiguous",
+    "workbench.activityBar.iconClickBehavior": "focus",
+    "workbench.colorTheme": "Vaporizer Foncé Dark"
+}
